@@ -1,0 +1,15 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="listConversions",
+    version="1.0.0",
+    packages=find_packages(),
+    install_requires=[],  # Add dependencies here
+    author="Dementia Gaming",
+    description="A package for converting lists to different formats",
+    url="https://github.com/yourusername/mypackage",
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+    ],
+)
