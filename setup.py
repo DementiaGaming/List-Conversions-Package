@@ -7,6 +7,8 @@ setup(
     install_requires=[],  # Add dependencies here
     author="Dementia Gaming",
     description="A package for converting lists to different formats",
+    long_description=open("README.md").read(),
+    long_description_content_type="text/markdown",
     url="https://github.com/DementiaGaming/List-Conversions-Package",
     classifiers=[
         "Programming Language :: Python :: 3",
