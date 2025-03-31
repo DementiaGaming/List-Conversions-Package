@@ -1,2 +1,2 @@
-from package import convertToInt, convertToStr
+from .package import convertToInt, convertToStr
 

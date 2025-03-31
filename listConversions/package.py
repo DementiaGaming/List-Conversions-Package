@@ -4,7 +4,7 @@ def convertToInt(tempList):
     Converts a list of string numbers to a list of integers
     """
     try:
-        for i in range(tempList):
+        for i in range(len(tempList)):
                 tempList[i] = int(tempList[i])
         return tempList
     except Exception as e:
@@ -16,7 +16,7 @@ def convertToStr(tempList):
     Converts a list of integers to a list of strings
     """
     try:
-        for i in range(tempList):
+        for i in range(len(tempList)):
                 tempList[i] = str(tempList[i])
         return tempList
     except Exception as e:

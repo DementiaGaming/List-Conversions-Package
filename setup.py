@@ -7,7 +7,7 @@ setup(
     install_requires=[],  # Add dependencies here
     author="Dementia Gaming",
     description="A package for converting lists to different formats",
-    url="https://github.com/yourusername/mypackage",
+    url="https://github.com/DementiaGaming/List-Conversions-Package",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
