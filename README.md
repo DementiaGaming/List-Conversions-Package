@@ -16,3 +16,8 @@ Convert list of integers to strings
 ```
 listConversions.convertToStr(list)
 ```
+
+Convert list to boolean values
+```
+listConversions.convertToBool(list)
+```
